@@ -1,0 +1,1 @@
+func myFunc(param: String) -> String {     if param.isEmpty {         return "Empty String"     }     return param.uppercased() }
